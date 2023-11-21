@@ -35,9 +35,9 @@
 * [About founder & how the company started](https://press.lendingtree.com/about/our-executives/bio/douglebda)
 * [Funding](https://tracxn.com/d/companies/lendingtree/__769cmFoK_kfFXSkqH-du-uY2RTSSV-E5NCIaloBvu-0/funding-and-investors)
 * [LendingTree FAQ for business activities section](https://www.lendingtree.com/about/faq/#:~:text=How%20does%20LendingTree%20work%3F,for%20your%20business%2C%20you%20win!)
-* [User/ Consumder data](https://www.cloudflare.com/case-studies/lendingtree/)
+* [User/Consumer data](https://www.cloudflare.com/case-studies/lendingtree/)
 * [Investopedia for business activities section](https://www.investopedia.com/articles/personal-finance/110915/how-lendingtree-mortgage-works.asp)
-* [Technologies used by LendingTree](https://stackshare.io/lendingtree/lendingtree)
+* [Technologies used by LendingTree (Stack Share)](https://stackshare.io/lendingtree/lendingtree)
 * [Major mortgage lending companies](https://www.forbes.com/advisor/mortgages/10-largest-mortgage-lenders-in-us/)
 * [Major lending companies](https://www.crunchbase.com/hub/united-states-lending-companies)
 
