@@ -23,11 +23,35 @@
 > 2. Nonbank lenders continue to grow market share.
 > 3. ... keep researching!
 
-* Other major companies in this domain (in the US, given LendingTree is a US company): 
-> Rocket Mortgage, United Shore Financial, LoanDepot, Wells Fargo, Fairway Independent Mortgage, Bank of America, U.S. Bank, JP Morgan Chase, PNC Bank, Citizens Bank, SoFi, Capital One. 
+* Banks acquire almost the entirty of the marketshare, with companies such as LendingTree, Rocket Mortgage, and LoanDepot owning a small percentage. Major companies in this domain (in the US, given LendingTree is a US company): 
+> Rocket Mortgage, United Shore Financial, LoanDepot, Bankrate, Wells Fargo, Fairway Independent Mortgage, Bank of America, U.S. Bank, JP Morgan Chase, PNC Bank, Citizens Bank, SoFi, NerdWallet, Capital One. 
 
 ## Results
-* 
+LendingTree has diversified loan offerings and improved the consumer experience.  
+
+Core metrics used by lending companies to measure success:
+1. Pull through rate
+2. Loan approval rate
+3. Average cycle time 
+4. Abandoned loan rate
+5. Application approval rate
+6. Average origination value
+
+How is your company performing relative to competitors in the same domain?
+
+Given the increase in interest rates, mortgage loans have decreased across the board. LendingTree reported a revenue decrease in the 3rd quarter of 2023 by -34.75%, faster than the overall decrease of competitors by -2.53%  in the same quarter. 
+ https://csimarket.com/stocks/compet_glance.php?code=TREE
+
+?do more research
+
+## Recommendations
+
+
+
+
+
+
+
 
 
 ## Citations:
@@ -40,6 +64,8 @@
 * [Technologies used by LendingTree (Stack Share)](https://stackshare.io/lendingtree/lendingtree)
 * [Major mortgage lending companies](https://www.forbes.com/advisor/mortgages/10-largest-mortgage-lenders-in-us/)
 * [Major lending companies](https://www.crunchbase.com/hub/united-states-lending-companies)
-
+* [Metrics](https://www.lightico.com/blog/lending-kpis-most-important/)
+* [Metrics 2](https://www.linkedin.com/pulse/top-10-kpis-measure-efficiency-loan-origination-mani-parthasarathy/)
+*
 
 ### notes to self: include images or other cool functions to improve case study 
